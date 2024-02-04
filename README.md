@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Azhar Tanwar
+Author - Azhar (Apna College)
